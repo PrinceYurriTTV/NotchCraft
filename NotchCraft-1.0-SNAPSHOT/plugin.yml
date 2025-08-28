@@ -1,0 +1,4 @@
+name: NotchCraft
+version: '1.0-SNAPSHOT'
+main: plugin1.notchCraft.NotchCraft
+api-version: '1.21'
